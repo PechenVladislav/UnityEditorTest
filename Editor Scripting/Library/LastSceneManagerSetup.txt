@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ReorderableList/RecList.unity
+  isLoaded: 1
+  isActive: 1
